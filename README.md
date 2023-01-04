@@ -1,2 +1,1 @@
-# Sistem Informasi Pendataan Penduduk pada BP2KB
-
+ini adalah sistem pakar forward chaining
